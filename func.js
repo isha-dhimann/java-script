@@ -291,7 +291,37 @@
 //     console.log("isha dhiman");
 // });
 
+// highorder function(jo return kre ek fun yha phir accept kre ek fun apne parameters m)
 
+// function abcd(){
+//    return function() {
+// console.log("ishuu")
+//    }
+// }
+// abcd()();
+
+
+// let a=12;
+// function abcd(){
+//     console.log("isha")
+// }
+// abcd()
+
+// // impure
+// function huiiiii(){
+//     a++;
+// }
+
+// function abcd(){
+//     let a=12;
+//     function defg(){
+//         let b=13;
+//         function ghij(){
+//             let c=14;
+//         }
+//     }
+
+// built in functions
 
 
 

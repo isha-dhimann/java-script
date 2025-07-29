@@ -1,11 +1,5 @@
 // Questions solved in function(javascipt)
 
-// function subtraction (a,b){
-//     console.log(a-b);
-// }
-// subtraction(100,60);
-
-
 // subtraction(100,50);
 // function subtraction (a,b){
 //     console.log(a-b);
@@ -52,3 +46,35 @@
 //      console.log(arguments[4],)
 // }
 // sum(10,20,30,0,1,2,3,4);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
