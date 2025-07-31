@@ -383,3 +383,86 @@
 // let arr=[100,200,300,400]
 // let sum = arr.reduce((acc,curr)=> acc + curr ,0);
 // console.log(sum);
+
+// let ar = [1,2,3,4,5]
+// ar.splice(1,2)
+// console.log(ar);
+
+// let arr = [1,2,3,4,5,6,7,8]
+// arr.filter(function(val){
+//     if(val>4)  return true;
+// }
+// )
+
+ // let arr=[100,200,300,400]
+// let sum = arr.reduce((acc,curr)=> acc + curr ,0);
+// console.log(sum);
+
+
+
+// SOME , EVERY , FILL , JOIN , FIND 
+
+// let arr =[1,2,3,4,5,6]
+// console.log(arr.find((i) => i > 5));
+
+// let arr=[3,4,5,6,7,8,9]
+// console.log(arr.find((i) => i<5));
+
+// let arr = [10,30,32,90]
+// let any = arr.some(function(val){
+//     return val > 50
+// });
+// console.log(any)
+
+// let arr = [10,30,32,90]
+// let any = arr.some(function(val){
+//     return val < 50
+// });
+// console.log(any);
+
+// let arr =[10,30,32,90,100]
+//  let any = arr.every(function(val){
+//     return val > 150
+//  });
+//  console.log(any)
+
+// let arr =[10,30,32,90,100]
+//  let any = arr.every(function(val){
+//     return val > 2
+//  });
+//  console.log(any)
+
+// let arr =[10,30,32,90,100]
+// let s = arr.join( "@")
+// console.log(s);
+
+// let arr =[10,30,32,90,100]
+// let s = arr.join( "  ")
+// console.log(s);
+
+// let arr =[10,30,32,90,100]
+// let s = arr.join( "##")
+// console.log(s);
+
+// let arr =[10,30,32,90,100]
+// let s = arr.join( "---")
+// console.log(s);
+
+// let arr =[10,30,32,90,100]
+// console.log(arr.fill(0,2,4,6));
+
+// let arr =[10,30,32,90,100,80]
+// console.log(arr.fill(0,2,4,6));
+
+// let arr = [1,2,3,4,5,6]
+// let [a,b, ,d] = arr;
+// console.log(a,b,d)
+
+// let arr=[1,2,3,4,5,6,7,8,9]
+// let arr2 = [...arr]
+// console.log(arr);
+
+
+// let colors= ["green" , "yellow"];
+// colors.splice(1,0,"red" , "blue")
+// console.log(colors);
