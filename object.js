@@ -114,6 +114,41 @@
 //     pincode: 110001
 //   }
 // };
-// console.log(employee.address.city); 
+// console.log(employee.address.city);
+
+
+
+
+let obj = {
+    name:"isha",
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
