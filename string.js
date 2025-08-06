@@ -92,7 +92,10 @@
 // let str = "ishadhiman muskantutejaa";
 // console.log(str.repeat(6));
 
-// console.log(document);
-// console.log(document.head);
 
-// let h1=document.getElementsByTagName('h1');
+
+
+
+
+
+
