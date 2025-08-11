@@ -1,0 +1,12 @@
+h1 {
+  color: brown;
+  text-align: center;
+}
+input {
+  height: 30px;
+  width: 450px;
+  cursor: pointer;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+}
