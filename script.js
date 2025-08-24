@@ -25,6 +25,37 @@
 // const age=23
 // console.log("name",age);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // operators
 // arithematic (addtion)
 // let a=10

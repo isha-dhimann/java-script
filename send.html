@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register form</title>
+    <link rel="stylesheet" href="send.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <form class="Form">
+      <div class="name">
+        <i class="fa-solid fa-user"></i>
+        <input type="text" placeholder="Name" />
+      </div>
+      <div class="otp-send">
+        <i class="fa-solid fa-envelope"></i>
+        <input type="email" placeholder="Email" required />
+        <button class="otp" type="button">Send OTP</button>
+        <p class="otp-message">OTP SUCESS</p>
+      </div>
+      <div class="otp-send">
+        <input type="mobile" placeholder="Phone" required />
+      </div>
+      <div class="password">
+        <input type="password" placeholder="Password" />
+      </div>
+      <button class="regis" type="submit">Register Form</button>
+    </form>
+    <script src="send.js"></script>
+  </body>
+</html>
